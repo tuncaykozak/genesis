@@ -1,6 +1,0 @@
-Bu dosya silinecek!!!
-<<<<<<< HEAD
-2. deneme
-=======
-2. deneme
->>>>>>> refs/remotes/origin/main
